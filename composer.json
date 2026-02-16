@@ -25,7 +25,7 @@
     "require": {
         "php": "^8.2.0",
         "dhl/module-carrier-paket": "^3.0.0",
-        "dhl/module-shipping-core": "^2.3.0 | ^3.0.0",
+        "dhl/module-shipping-core": "^2.3.0 | ^3.0.0 | ^4.0.0",
         "magento/framework": "^103.0.0",
         "magento/module-config": "^101.2.0",
         "magento/module-sales": "^103.0.0",
